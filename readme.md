@@ -9,7 +9,7 @@ Syncs user flairs from one to many subreddits. Searches for user flairs over a g
 -   Edit conf.ini with your details
 -   Run it `python run.py`
 
-#### Settings Info
+### Settings Info
 
 **[REDDIT]**
 
@@ -25,7 +25,7 @@ Syncs user flairs from one to many subreddits. Searches for user flairs over a g
 `min_days` = minimum days to search for user flairs (0 = today)  
 `max_days` = maximum days to search for user flairs (7 = 1 week)
 
-#### More Info
+### More Info
 
 Get all the user flairs from the last month.
 
