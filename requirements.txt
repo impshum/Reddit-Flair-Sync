@@ -1,0 +1,4 @@
+praw
+psaw
+sqlite3
+configparser
