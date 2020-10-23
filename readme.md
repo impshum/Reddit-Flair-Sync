@@ -2,7 +2,8 @@
 
 ![](i.jpg)
 
-Syncs user flairs from one to many subreddits. Searches for user flairs over a given day range, stores them in an SQLite database and finally updates flairs.
+Syncs user flairs from one to many subreddits.  
+Searches for user flairs over a given day range, stores them in an SQLite database and finally updates flairs.
 
 ### Instructions
 
